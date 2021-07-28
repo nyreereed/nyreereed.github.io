@@ -3,6 +3,11 @@
 This porfolio includes selected projects completed while enrolled in the MIT xPro's Professional Certificate in Coding - Women's Cohort.<br>
 ### Projects
 <a href = "https://nyreereed.github.io/pacmen-exercise/">The PacMen Factory</a>
+
+<a href = "">The Eyes Exercise</a>
+
+<a href = "">Real Time Bus Tracker</a>
+
 ## Getting Started
 Will require the use of an internet browser, a code editor of choice and the use of Bootstrap Framework.<br>
 ## Help
