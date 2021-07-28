@@ -6,7 +6,7 @@ This porfolio includes selected projects completed while enrolled in the MIT xPr
 
 <a href = "https://nyreereed.github.io/eyes-exercise/">The Eyes Exercise</a>
 
-<a href = "">Real Time Bus Tracker</a>
+<a href = "https://nyreereed.github.io/realtimebustracker/">Real Time Bus Tracker</a>
 
 ## Getting Started
 Will require the use of an internet browser, a code editor of choice and the use of Bootstrap Framework.<br>
