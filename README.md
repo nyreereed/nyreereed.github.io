@@ -4,7 +4,7 @@ This porfolio includes selected projects completed while enrolled in the MIT xPr
 ### Projects
 <a href = "https://nyreereed.github.io/pacmen-exercise/">The PacMen Factory</a>
 
-<a href = "">The Eyes Exercise</a>
+<a href = "https://nyreereed.github.io/eyes-exercise/">The Eyes Exercise</a>
 
 <a href = "">Real Time Bus Tracker</a>
 
