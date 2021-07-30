@@ -8,6 +8,13 @@ This porfolio includes selected projects completed while enrolled in the MIT xPr
 
 <a href = "https://nyreereed.github.io/realtimebustracker/">Real Time Bus Tracker</a>
 
+### Project Repos
+<a href = "https://github.com/nyreereed/pacmen-exercise">The PacMen Factory</a>
+
+<a href = "https://github.com/nyreereed/eyes-exercise">The Eyes Exercise</a>
+
+<a href = "https://github.com/nyreereed/realtimebustracker">Real Time Bus Tracker</a>
+
 ## Getting Started
 Will require the use of an internet browser, a code editor of choice and the use of Bootstrap Framework.<br>
 ## Help
