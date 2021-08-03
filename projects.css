@@ -63,5 +63,15 @@ img {
     display: block;
     width: 100%;
     padding-left: 10%;
-    padding-right: 10%
+    padding-right: 10%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
   }
+
+  #footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+  }
+  
+ 
